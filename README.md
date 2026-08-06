@@ -16,7 +16,7 @@ The project follows a complete data analytics workflow:
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](images/dashboard_image.png)
 
 ---
 
