@@ -274,7 +274,7 @@ Increase marketing efforts toward:
 # 📁 Project Structure
 
 ```text
-Customer-Shopping-Behavior-Analysis/
+Customer_trend_data_analysis/
 │
 ├── customer_behavior_dashboard.pbix
 ├── notebook.ipynb
